@@ -1,0 +1,3 @@
+reference-data-fund-api:
+  - hostName: https://dummyjson.com
+  - path: /test
